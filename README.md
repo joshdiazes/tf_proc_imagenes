@@ -17,3 +17,6 @@ por Joshua Diaz
 	python deteccionv1.py --source prueba3.1.mp4 --view-img --conf-thres 0.4 --iou-thres 0.5 --name resultados
 8. El link de expocisión es el siguiente:
 	https://youtu.be/aFdMIlX_YzM
+9. Links de videos grabados:
+   https://youtu.be/7_nVC5K6ZDk
+   https://youtu.be/6TehxjAshu0
